@@ -1,0 +1,12 @@
+{
+  "WM_BASE_URL": "https://arista_wifi.com",
+  "WM_LOCATION_ID": 0,
+  "WM_NODE_ID": 0,
+  "SSID_PROFILE_NAME": "TEST_SSID",
+  "BACKEND_PORT": 8081,
+  "ROTATION_HOUR": 2,
+  "ROTATION_MINUTE": 0,
+  "TEST_ROTATION_EVERY_MINUTES": 2,
+  "LOG_LEVEL": "INFO",
+  "VERIFY_SSL": false
+}
